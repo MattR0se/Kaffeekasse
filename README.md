@@ -4,12 +4,12 @@ Kaffeeliste - Ein Programm zum Verwalten der Kaffeekasse
 
 © Christian Post 2019
 
-# Version History
+# Versionsgeschichte
 0.2
 Pandas-import entfernt
 
 
-
+# Beschreibung
 
 --- Dateien: ---
  kaffeeliste.py 	Hauptprogramm
